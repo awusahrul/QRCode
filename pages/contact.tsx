@@ -104,7 +104,7 @@ const ContactFormWithSocialButtons = () => {
                   align="center"
                   justify="space-around"
                   direction={{ base: "row", md: "column" }}>
-                  <Link href="https://github.com/dantelentsoe">
+                  <Link href="https://github.com/awusahrul">
                     <IconButton
                       aria-label="github"
                       variant="ghost"
@@ -119,7 +119,7 @@ const ContactFormWithSocialButtons = () => {
                     />
                   </Link>
 
-                  <Link href="https://www.linkedin.com/in/dante-lentsoe-2b6566148/">
+                  <Link href="#">
                     <IconButton
                       aria-label="linkedin"
                       variant="ghost"
@@ -133,7 +133,7 @@ const ContactFormWithSocialButtons = () => {
                     />
                   </Link>
 
-                  <Link href="https://www.buymeacoffee.com/dantelentsoe">
+                  <Link href="#">
                     <IconButton
                       aria-label="twitter"
                       variant="ghost"
