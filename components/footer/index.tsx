@@ -21,20 +21,20 @@ const Footer = () => {
             <ButtonGroup variant="ghost">
               <IconButton
                 as="a"
-                href="https://www.linkedin.com/in/dante-lentsoe-2b6566148/"
+                href="#"
                 aria-label="LinkedIn"
                 icon={<FaLinkedin fontSize="1.25rem" />}
               />
               <IconButton
                 as="a"
-                href="https://github.com/dantelentsoe"
+                href="#"
                 aria-label="GitHub"
                 icon={<FaGithub fontSize="1.25rem" />}
               />
 
               <IconButton
                 as="a"
-                href="https://www.buymeacoffee.com/dantelentsoe "
+                href="# "
                 aria-label="BuyMeACoffe"
                 icon={<BiDonateHeart fontSize="1.25rem" />}
               />
@@ -44,10 +44,10 @@ const Footer = () => {
           <Text fontSize="sm" color="subtle" py={{ base: "2", md: "2" }}>
             &copy; {new Date().getFullYear()} Developed by{" "}
             <Link
-              href="https://dantelentsoe.com"
+              href="#"
               target="_blank"
               color={"teal.500"}>
-              Dante Lentsoe
+              @awusahrul
             </Link>
           </Text>
         </Stack>
