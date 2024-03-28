@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Web QR Code Scanner </title>
+        <title>QR Code Scanner - Antarmuka Website Utama - AWU</title>
         <meta
           name="description"
           content="Web Code Scanner is a qr code mobile application"
