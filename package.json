@@ -1,0 +1,44 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.2",
+    "@chakra-ui/react": "^2.2.1",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11",
+    "@playwright/test": "^1.22.2",
+    "@reactour/tour": "^2.11.0",
+    "@types/react-lottie": "^1.2.6",
+    "buffer": "^6.0.3",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^6",
+    "global": "^4.4.0",
+    "next": "12.1.6",
+    "playwright": "^1.22.2",
+    "qrcode.react": "^3.0.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.32.2",
+    "react-icons": "^4.4.0",
+    "react-lottie": "^1.2.3",
+    "react-qr-reader": "^3.0.0-beta-1",
+    "react-to-print": "^2.14.7",
+    "react-web-qr-reader": "^1.0.4",
+    "recoil": "^0.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "@types/react": "18.0.13",
+    "@types/react-dom": "18.0.5",
+    "eslint": "8.17.0",
+    "eslint-config-next": "12.1.6",
+    "typescript": "4.7.3"
+  }
+}
